@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{D76A97A0-D3BF-4D8A-B863-8EF7ABD8701B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76A97A0-D3BF-4D8A-B863-8EF7ABD8701B}.Debug|Default.ActiveCfg = Debug
+		{D76A97A0-D3BF-4D8A-B863-8EF7ABD8701B}.Debug|Default.Build.0 = Debug
+		{D76A97A0-D3BF-4D8A-B863-8EF7ABD8701B}.Release|Default.ActiveCfg = Release
+		{D76A97A0-D3BF-4D8A-B863-8EF7ABD8701B}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

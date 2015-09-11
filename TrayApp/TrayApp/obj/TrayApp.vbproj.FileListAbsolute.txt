@@ -1,0 +1,74 @@
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\TrayApp.exe.config
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.frmLogin.resources
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.MainForm.resources
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.PopupForm.resources
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\TrayApp.exe
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\TrayApp.pdb
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\TrayApp.xml
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\AxInterop.AdminLibCtl.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\AxInterop.ImgeditLibCtl.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\AxInterop.ScanLibCtl.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\AxInterop.ThumbnailLibCtl.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\bizBarcode.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\bizCryptography.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\bizExportToExcel.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\bizIncentive.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\bizInterface.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\bizMaster.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\bizShared.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\bizTravelAgency.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\C1.C1PrintDocument.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\C1.Common.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\C1.Win.C1PrintPreview.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\C1.Win.C1TrueDBGrid.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\Interop.AcroPDFLib.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\Interop.AdminLibCtl.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\Interop.ImgeditLibCtl.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\Interop.ScanLibCtl.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\Interop.ThumbnailLibCtl.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.exe
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.xml
+C:\Documents and Settings\Administrator\Desktop\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.pdb
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.exe
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.xml
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.pdb
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\bin\TrayApp.exe.config
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Release\ResolveAssemblyReference.cache
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Release\AAMS.frmLogin.resources
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Release\AAMS.MainForm.resources
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Release\AAMS.Resources.resources
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Release\AAMS.PopupForm.resources
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Release\TrayApp.vbproj.GenerateResource.Cache
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Release\TrayApp.exe
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Release\TrayApp.xml
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Release\TrayApp.pdb
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\bin\TrayApp.exe
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\bin\TrayApp.pdb
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\bin\TrayApp.xml
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.frmLogin.resources
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.MainForm.resources
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.Resources.resources
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.PopupForm.resources
+D:\Neeraj\Practices\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.vbproj.GenerateResource.Cache
+D:\Neeraj\TrayApp\TrayApp\TrayApp\bin\TrayApp.exe.config
+D:\Neeraj\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.exe
+D:\Neeraj\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.xml
+D:\Neeraj\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.pdb
+D:\Neeraj\TrayApp\TrayApp\TrayApp\bin\TrayApp.exe
+D:\Neeraj\TrayApp\TrayApp\TrayApp\bin\TrayApp.pdb
+D:\Neeraj\TrayApp\TrayApp\TrayApp\bin\TrayApp.xml
+D:\Neeraj\TrayApp\TrayApp\TrayApp\bin\office.dll
+D:\Neeraj\TrayApp\TrayApp\TrayApp\bin\Microsoft.Vbe.Interop.dll
+D:\Neeraj\TrayApp\TrayApp\TrayApp\bin\office.xml
+D:\Neeraj\TrayApp\TrayApp\TrayApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Neeraj\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.frmLogin.resources
+D:\Neeraj\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.MainForm.resources
+D:\Neeraj\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.Resources.resources
+D:\Neeraj\TrayApp\TrayApp\TrayApp\obj\Debug\AAMS.PopupForm.resources
+D:\Neeraj\TrayApp\TrayApp\TrayApp\obj\Debug\TrayApp.vbproj.GenerateResource.Cache
